@@ -2,6 +2,7 @@ document.getElementById('lower').checked = true
 document.getElementById('upper').checked = true
 document.getElementById('symbol').checked = true
 document.getElementById('number').checked = true
+console.log(document.getElementById('number').checked)
 //++++++++++++++++++++++ THIS IS RANDOM PASSWROD GENERATOR ++++++++++++++++++++++
 //++++++++++++++++++++++ THIS IS RANDOM PASSWROD GENERATOR ++++++++++++++++++++++
 let plus_length = document.getElementById("plus_length");

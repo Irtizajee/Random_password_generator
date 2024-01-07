@@ -148,3 +148,10 @@ input[type="checkbox"]
     background-color: white;
     font-weight: bold;
 }
+#check_ball_upper , #check_ball_lower , #check_ball_symbol , #check_ball_number{
+    transform: translateX(20px);
+}
+#check_ball_track_upper , #check_ball_track_lower,#check_ball_track_number,#check_ball_track_symbol
+{
+    background-color: #6a75bb;
+}
